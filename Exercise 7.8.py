@@ -1,0 +1,15 @@
+sandwich_orders = ['tuna', 'ayam', 'keju', 'daging sapi']
+
+finished_sandwiches = []
+
+while sandwich_orders:
+    current_sandwich = sandwich_orders.pop()
+
+    print(f"Saya sudah membuat sandwich {current_sandwich} Anda.")
+
+    finished_sandwiches.append(current_sandwich)
+
+print("\nSandwich yang sudah selesai dibuat:")
+
+for sandwich in finished_sandwiches:
+    print(f"- Sandwich {sandwich}")
