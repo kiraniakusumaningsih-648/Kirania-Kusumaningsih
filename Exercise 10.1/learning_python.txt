@@ -1,1 +1,5 @@
-
+In Python kamu bisa membuat variabel untuk menyimpan data.
+In Python kamu bisa membuat class dan objek.
+In Python kamu bisa menggunakan perulangan for dan while.
+In Python kamu bisa membuat fungsi menggunakan def.
+In Python kamu bisa mengimpor module untuk menggunakan fitur tambahan.
